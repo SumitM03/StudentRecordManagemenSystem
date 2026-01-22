@@ -30,11 +30,11 @@ This project demonstrates database connectivity, object-oriented programming con
 ## Project Structure
 StudentRecordManagementSystem/
 │
-├── DatabaseUtil.java
-├── StudentEntity.java
-├── StudentRepository.java
-├── ApplicationRunner.java
-└── README.md
+├─DatabaseUtil.java
+├─StudentEntity.java
+├─StudentRepository.java
+├─ApplicationRunner.java
+└─README.md
 
 
 
